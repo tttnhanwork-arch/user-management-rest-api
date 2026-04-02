@@ -1,4 +1,4 @@
-# User Management REST API (Spring Boot)
+# Student Management REST API (Spring Boot)
 
 A backend RESTful API project built with Spring Boot, Spring Data JPA, and Spring Security.  
 
