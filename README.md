@@ -80,7 +80,7 @@ You can test APIs using: Postman
 
 ## Run
 
-git clone https://github.com/tttnhanwork-arch/user-management-rest-api.git
+git clone https://github.com/tttnhanwork-arch/student-management-rest-api.git
 ## Screenshots
 
 [GET : /api/subject]
